@@ -1,6 +1,6 @@
 # GCR Docker Image Poller Plugin for GoCD
 
-This is a plugin which provides docker images in GCR as package material in GoCD. It is inspired by [https://github.com/magnus-lycka/gocd-docker-poller](this Docker image poller by Magnus Lyckå)
+This is a plugin which provides docker images in GCR as package material in GoCD. It is inspired by [this Docker image poller by Magnus Lyckå](https://github.com/magnus-lycka/gocd-docker-poller)
 
 ## Building the code base
 
