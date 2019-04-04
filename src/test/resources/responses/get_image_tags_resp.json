@@ -1,0 +1,49 @@
+{
+  "child": [],
+  "manifest": {
+    "sha256:75f315d791917c6c804a78d455acc255b3056a4668be456f426bf2613960b341": {
+      "imageSizeBytes": "310440099",
+      "layerId": "",
+      "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+      "tag": [],
+      "timeCreatedMs": "1",
+      "timeUploadedMs": "1"
+    },
+    "sha256:b031588e93214cbb3212d32c381b18b4f8e51e2e1a99f5b95015d6819c236cf8": {
+      "imageSizeBytes": "310556932",
+      "layerId": "",
+      "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+      "tag": [
+        "1.1.1"
+      ],
+      "timeCreatedMs": "3",
+      "timeUploadedMs": "3"
+    },
+    "sha256:e810c1da7bd353ff3f2754c5960f8d4323275b62bc47ba498c41876270c245d1": {
+      "imageSizeBytes": "310427796",
+      "layerId": "",
+      "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+      "tag": [
+        "1.1.0"
+      ],
+      "timeCreatedMs": "2",
+      "timeUploadedMs": "2"
+    },
+    "sha256:e810c1da7bd353ff3f275asdasdasd4323275b62bc47ba498c41876270c245d1": {
+      "imageSizeBytes": "310427796",
+      "layerId": "",
+      "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+      "tag": [
+        "2.1.0"
+      ],
+      "timeCreatedMs": "4",
+      "timeUploadedMs": "4"
+    }
+  },
+  "name": "gcp-project/image-test",
+  "tags": [
+    "1.1.0",
+    "1.1.1",
+    "2.1.0"
+  ]
+}

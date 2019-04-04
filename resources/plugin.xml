@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<go-plugin id="gcr-docker-registry-poller" version="1">
+    <about>
+        <name>GCR Docker Image Poller</name>
+        <version>1.0.0</version>
+        <target-go-version>19.2.0</target-go-version>
+        <description>GCR package poller plugin for Thoughworks GoCD.</description>
+        <vendor>
+            <name>Gojek DSP</name>
+            <url>http://gojek.dev</url>
+        </vendor>
+    </about>
+</go-plugin>
